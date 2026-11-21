@@ -30,6 +30,6 @@ All content is for **educational purposes only**. Practiced only in legal enviro
 ## 📫 Connect
 
 - GitHub: [@AghoriRoot](https://github.com/AghoriRoot)
-- TryHackMe: *add your profile link*
+- TryHackMe: [@AghoriRoot](https://tryhackme.com/p/AghoriRoot)
 
-⭐ Star the repo if you find it useful!
+
